@@ -1,5 +1,4 @@
 # sadmanGPT2.0
-# speech_to_text & text_to_speech AI.
 ## This is my own custom AI that'll take your voice as input & speak the output
 ### You'll need python to run this.
 #### Use the following commands before running 
